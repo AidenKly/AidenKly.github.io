@@ -1,2 +1,2 @@
 # AidenKly.github.io
-# This is the personal side of me!
+# This is the personal site of me!
